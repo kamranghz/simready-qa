@@ -1,0 +1,16 @@
+.venv/
+build/
+outputs/
+.vs/
+__pycache__/
+*.pyc
+CMakeUserPresets.json
+CMakeCache.txt
+CMakeFiles/
+*.user
+*.suo
+*.obj
+MUJOCO_LOG.TXT
+mjmodel.mjb
+mjmodel.xml
+MJMODEL.TXT
